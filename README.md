@@ -18,6 +18,8 @@ In my projects I have used
 
 - :elephant: PostgreSQL: conceptual, logical and physical design of a [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
 
+- :herb: Git: as version control system (from normal work-flow to branching/merging, resolving conflicts and providing good commit messages)
+
 - 📫 How to reach me **fatjonfreskina@gmail.com**
 
 <br/>
