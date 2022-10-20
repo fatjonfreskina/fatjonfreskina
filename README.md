@@ -12,6 +12,8 @@ In my projects I have used
 
 - :coffee: Java: Object Oriented Programming and Backend APIs focusing on SOLID principles
 
+- :eight_spoked_asterisk: Node.js & Express.js: [REST APIs](https://github.com/fatjonfreskina/Crossfit-wod-api)
+
 - :large_blue_diamond: C++: Socket Programming 
 
 - :computer: HTML/CSS/JS: for [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
