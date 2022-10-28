@@ -10,7 +10,7 @@ In my projects I have used
 
 - :snake: Python: for [Machine learning](https://github.com/fatjonfreskina/Machine-Learning-Unipd/blob/main/Lab2/fatjon_freskina_2056098.ipynb) and Data Visualization (numpy, scipy, scikit-learn, matplotlib) and Ethical Hacking (scapy)
 
-- :coffee: Java: Object Oriented Programming and Backend APIs focusing on SOLID principles
+- :coffee: Java: Object Oriented Programming
 
 - :eight_spoked_asterisk: Node.js & Express.js: [REST APIs](https://github.com/fatjonfreskina/Crossfit-wod-api)
 
