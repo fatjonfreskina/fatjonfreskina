@@ -20,6 +20,8 @@ In my projects I have used
 
 - :elephant: PostgreSQL: conceptual, logical and physical design of [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
 
+- :seedling: MongoDB for NoSQL Databases 
+
 - :herb: Git: as version control system (normal work-flow, branching/merging, resolving conflicts and providing good commit messages)
 
 - 📫 How to reach me **fatjonfreskina@gmail.com**
