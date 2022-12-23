@@ -12,7 +12,7 @@ In my projects I have used
 
 - :coffee: Java: Object Oriented Programming
 
-- :eight_spoked_asterisk: Node.js & Express.js: [REST APIs](https://github.com/fatjonfreskina/Crossfit-wod-api)
+- :eight_spoked_asterisk: Node.js & Express.js: REST API
 
 - :large_blue_diamond: C++: Socket Programming 
 
