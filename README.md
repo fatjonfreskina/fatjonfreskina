@@ -8,21 +8,23 @@ Fatjon</a></h1>
 
 In my projects I have used
 
-- :snake: Python: for Machine learning and Data Visualization (numpy, scipy, scikit-learn, matplotlib) and Ethical Hacking (scapy)
+- :snake: Python: for Machine learning, Data Visualization (numpy, scipy, scikit-learn, matplotlib) and Ethical Hacking (scapy)
 
-- :coffee: Java: Object Oriented Programming
+- :coffee: Java: Object oriented designed apps
 
-- :eight_spoked_asterisk: Node.js & Express.js: REST API
+- :eight_spoked_asterisk: Node.js & Express.js: REST APIs
 
-- :large_blue_diamond: C++: Socket Programming 
+- :large_blue_diamond: C++: Socket Programming, tears and bugs
 
-- :computer: HTML/CSS/JS: for [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
+- :computer: HTML/CSS/JS: for front-end [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
 
 - :elephant: PostgreSQL: conceptual, logical and physical design of [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
 
 - :seedling: MongoDB for [NoSQL Databases](https://github.com/fatjonfreskina/Crossfit-api-mongodb)
 
 - :herb: Git: as version control system (normal work-flow, branching/merging, resolving conflicts and providing good commit messages)
+
+- :rocket: Rust: I'm currently learning Rust because why not?
 
 - 📫 How to reach me **fatjonfreskina@gmail.com**
 
