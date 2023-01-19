@@ -6,15 +6,15 @@ Fatjon</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-In my projects I have used
+In my projects I have used: 
 
-- :snake: Python: for Machine learning, Data Visualization (numpy, scipy, scikit-learn, matplotlib) and Ethical Hacking (scapy)
+- :snake: Python: for general-purpose scripts, Machine learning, Data Visualization and Ethical Hacking (scapy)
 
-- :coffee: Java: Object oriented designed apps
+- :coffee: Java: Object oriented designed apps and tools
 
 - :eight_spoked_asterisk: Node.js & Express.js: REST APIs
 
-- :large_blue_diamond: C++: Socket Programming, tears and bugs
+- :large_blue_diamond: C++: for Socket Programming and to generate an impressive amount of bugs and tears 
 
 - :computer: HTML/CSS/JS: for front-end [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
 
@@ -24,9 +24,7 @@ In my projects I have used
 
 - :herb: Git: as version control system (normal work-flow, branching/merging, resolving conflicts and providing good commit messages)
 
-- :rocket: Rust: I'm currently learning Rust because why not?
-
-- 📫 How to reach me **fatjonfreskina@gmail.com**
+- :rocket: Rust: currently building some command line tools with Rust
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -43,4 +41,4 @@ In my projects I have used
 
 ---
 
-Last Edited on: 12/10/2022
+Last Edited on: 19/01/2023
