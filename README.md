@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/fatjonfreskina/" target="blank">
 Fatjon</a></h1>
-<h3 align="center">A passionate ICT student from Padua Italy :it:</h3>
+<h3 align="center">A passionate ICT student from Padua Italy</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
