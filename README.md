@@ -8,13 +8,13 @@ Fatjon</a></h1>
 
 In my projects I have used: 
 
-- :snake: Python: for general-purpose scripts, Machine learning (scikit and PyTorch), Data Visualization (matplotlib) and Ethical Hacking (scapy)
+- :snake: Python: for general-purpose scripts, Machine learning (scikit and PyTorch), Data Visualization (matplotlib), Ethical Hacking (scapy), Data analysis(Numpy, Pandas, openpyxl), Database scripting
 
 - :coffee: Java: Object oriented designed apps and tools
 
 - :eight_spoked_asterisk: Node.js & Express.js: REST APIs
 
-- :large_blue_diamond: C++: for Socket Programming and to generate an impressive amount of bugs and tears 
+- :large_blue_diamond: C\# and DOTNET Core: Full stack development of Web (MVC) and Mobile/Desktop Applications (MAUI)
 
 - :computer: HTML/CSS/JS: for front-end [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
 
