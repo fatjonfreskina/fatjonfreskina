@@ -8,7 +8,7 @@ Fatjon</a></h1>
 
 In my projects I have used: 
 
-- :snake: Python: for general-purpose scripts, Machine learning (scikit and PyTorch), Data Visualization (matplotlib), Ethical Hacking (scapy), Data analysis(Numpy, Pandas, openpyxl), Database scripting
+- :snake: Python: for general-purpose scripts, Machine learning (scikit), deep learning (pytorch), Data Visualization (matplotlib), Ethical Hacking (scapy), Data analysis (Numpy, Pandas, openpyxl), Database scripting
 
 - :coffee: Java: Object oriented designed apps and tools
 
