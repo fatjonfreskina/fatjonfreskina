@@ -14,7 +14,7 @@ In my projects I have used:
 
 - :eight_spoked_asterisk: Node.js & Express.js: REST APIs
 
-- :large_blue_diamond: C\# and DOTNET Core: Full stack development of Web (MVC) and Mobile/Desktop Applications (MAUI)
+- :large_blue_diamond: C\# and .NET: Full stack development of Web (MVC) and Mobile/Desktop Applications (MAUI)
 
 - :computer: HTML/CSS/JS: for front-end [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
 
