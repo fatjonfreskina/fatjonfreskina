@@ -14,11 +14,11 @@ In my projects I have used:
 
 - :eight_spoked_asterisk: Node.js & Express.js: REST APIs
 
-- :large_blue_diamond: C\# and .NET: Full stack development of Web (MVC) and Mobile/Desktop Applications (MAUI)
+- :large_blue_diamond: C\# and .NET: Backend and Mobile/Desktop (MAUI) app development 
 
-- :computer: HTML/CSS/JS: for front-end [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
+- :computer: HTML/CSS/Vue.js for [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
 
-- :elephant: PostgreSQL: conceptual, logical and physical design of [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
+- :elephant: PostgreSQL, MySQL: conceptual, logical and physical design of [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
 
 - :seedling: MongoDB for [NoSQL Databases](https://github.com/fatjonfreskina/Crossfit-api-mongodb)
 
