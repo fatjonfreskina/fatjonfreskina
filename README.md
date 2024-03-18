@@ -1,30 +1,24 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/fatjonfreskina/" target="blank">
 Fatjon</a></h1>
-<h3 align="center">A passionate ICT student from Padua Italy</h3>
+<h3 align="center">A software engineer from Padua</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-In my projects I have used: 
+I've built:
 
-- :snake: Python: for general-purpose scripts, Machine learning (scikit), deep learning (pytorch), Data Visualization (matplotlib), Ethical Hacking (scapy), Data analysis (Numpy, Pandas, openpyxl), Database scripting
+-  Machine learning (scikit) & deep learning (pytorch) models with :snake:Python:snake:
 
-- :coffee: Java: Object oriented designed apps and tools
+- :eight_spoked_asterisk: REST APIs with C#, Python, NodeJs
 
-- :eight_spoked_asterisk: Node.js & Express.js: REST APIs
+- :large_blue_diamond: Mobile apps with flutter/dart
 
-- :large_blue_diamond: C\# and .NET: Backend and Mobile/Desktop (MAUI) app development 
+- :computer: Web apps using HTML/CSS/Vue.js
 
-- :computer: HTML/CSS/Vue.js for [Web development](https://github.com/fatjonfreskina/Gym-web-app-unipd)
+- :elephant: PostgreSQL and MySQL relational databases
 
-- :elephant: PostgreSQL, MySQL: conceptual, logical and physical design of [Relational Databases](https://github.com/fatjonfreskina/Foundations-of-databases-unipd/blob/main/dbms/fdb-homework3-template/new_relational.drawio.pdf)
-
-- :seedling: MongoDB for [NoSQL Databases](https://github.com/fatjonfreskina/Crossfit-api-mongodb)
-
-- :herb: Git: as version control system (normal work-flow, branching/merging, resolving conflicts and providing good commit messages)
-
-- :rocket: Rust: currently building some command line tools with Rust
+- :seedling: MongoDB NoSql databases
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
