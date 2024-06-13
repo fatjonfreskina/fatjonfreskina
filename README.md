@@ -10,14 +10,14 @@
   <a href="https://www.linkedin.com/in/fatjon-freskina-b54b3a18a/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:fatjonfreskina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="your-discord-URL">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
 
@@ -25,17 +25,10 @@
 	<img src="https://komarev.com/ghpvc/?username=fatjonfreskina&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-I've built:
+<h3>In the past I have built:</h3>
 
--  Machine learning (scikit) & deep learning (pytorch) models with :snake:Python:snake:
-
-- :eight_spoked_asterisk: REST APIs with C#, Python, NodeJs
-
-- :large_blue_diamond: Mobile apps with flutter/dart
-
-- :computer: Web apps using HTML/CSS/Vue.js
-
-- :elephant: PostgreSQL and MySQL relational databases
-
-- :seedling: MongoDB NoSql databases
-
+- Backend systems using C# with Entity Framework and MySQL
+- Cross platform apps using .NET MAUI and Flutter
+- Any kind of script using Python
+- Frontend apps using Vue.js and Bootstrap5
+- Machine Learning and Deep Learning models with Scikit-learn and PyTorch.
