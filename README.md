@@ -1,10 +1,29 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/fatjonfreskina/" target="blank">
-Fatjon</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/fatjonfreskina/" target="blank">Fatjon</a></h1>
 <h3 align="center">A software engineer from Padua</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
+</div>
+
+<!-- Badges-->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/fatjon-freskina-b54b3a18a/">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+	<img src="https://komarev.com/ghpvc/?username=fatjonfreskina&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 I've built:
 
@@ -20,19 +39,3 @@ I've built:
 
 - :seedling: MongoDB NoSql databases
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fatjon-freskina-b54b3a18a/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/fatjonfreskina/">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      </div>
-</p>
-
----
-
-Last Edited on: 28/02/2023
