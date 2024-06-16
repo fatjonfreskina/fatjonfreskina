@@ -13,10 +13,10 @@
   <a href="mailto:fatjonfreskina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-discord-URL">
+  <a href="https://discordapp.com/users/629278114219819018">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.youtube.com/@FatjonFreskina/">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
@@ -25,7 +25,7 @@
 	<img src="https://komarev.com/ghpvc/?username=fatjonfreskina&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<h3>In the past I have built:</h3>
+### :star: Previously, I have created
 
 - Backend systems with C#, Entity Framework and MySQL
 - Cross platform apps using .NET MAUI and Flutter
@@ -33,7 +33,7 @@
 - Frontend apps using Vue.js and Bootstrap5
 - Machine Learning and Deep Learning models with Scikit-learn and PyTorch.
 
-Experienced in deploying solutions on Azure, Netlify or Aruba leveraging Docker containers and Nginx.
+Experienced in deploying solutions on Azure, Netlify, and Aruba, utilizing Docker containers and Nginx.
 
 ### :hammer_and_wrench: Languages and Tools
 
