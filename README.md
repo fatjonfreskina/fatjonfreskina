@@ -27,13 +27,12 @@
 
 ### :star: Previously, I have created
 
-- Backend systems with C#, Entity Framework and MySQL
-- Cross platform apps using .NET MAUI and Flutter
-- Any kind of script thanks to Python
+- REST APIs with flask, fastapi, dotnet
+- Cross platform applications using MAUI and Flutter
 - Frontend apps using Vue.js and Bootstrap5
 - Machine Learning and Deep Learning models with Scikit-learn and PyTorch.
 
-Experienced in deploying solutions on Azure, Netlify, and Aruba, utilizing Docker containers and Nginx.
+Experienced in deploying solutions on Azure, Netlify, and Aruba, using Docker containers and Nginx.
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -53,3 +52,7 @@ Experienced in deploying solutions on Azure, Netlify, and Aruba, utilizing Docke
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
 </div>
+
+### :bar_chart: Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/fatjonfreskina)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatjonfreskina&show_icons=true&theme=vue-dark)
