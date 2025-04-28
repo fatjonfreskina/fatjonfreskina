@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/fatjonfreskina/" target="blank">Fatjon</a></h1>
-<h3 align="center">A software engineer from Padua</h3>
+<h3 align="center">A software engineer from Padova</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
@@ -25,7 +25,7 @@
 	<img src="https://komarev.com/ghpvc/?username=fatjonfreskina&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### :star: Previously, I have created
+### :star: I have created
 
 - REST APIs with flask, fastapi, dotnet
 - Cross platform applications using MAUI and Flutter
